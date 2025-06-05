@@ -26,8 +26,8 @@ body {
 
 .note-item {
   position: relative;
-  background-image: url("/sticky-note-purple.png"); /* example sticky note image */
-  background-size: cover; /* cover entire box */
+  background-image: url("/sticky-note-purple.png");
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   width: 100%;
@@ -41,7 +41,7 @@ body {
   text-align: center;
   color: #333;
   font-weight: bold;
-  text-shadow: 1px 1px 2px #fff; /* to make text stand out */
+  text-shadow: 1px 1px 2px #fff;
 }
 
 .notes-header {
